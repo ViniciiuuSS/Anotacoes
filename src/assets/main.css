@@ -1,0 +1,24 @@
+.bottom-5_5em{
+  bottom: 5.5em;
+}
+.justItems_center{
+  justify-items: center
+}
+.rowReverse{
+  flex-direction: row-reverse;
+}
+main{
+  padding-bottom: 5.5rem !important;
+}
+textarea, textarea:focus{
+  min-height: 10rem;
+  max-height: 10rem;
+  min-width: 20rem;
+  resize: none;
+  border:transparent !important;
+  background: transparent !important;
+}
+input{
+  background: transparent !important;
+  border:transparent !important;
+}
